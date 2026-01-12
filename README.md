@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Theresa Wiesner, PhD.
 - 👀 I’m interested in neuro-photonics!
 - 🌱 I’m currently a Postdoctoral Fellow in the NeuroCyto Lab working with Christophe Leterrier at Aix-Marseille Université. I am interested in the development of multimodal super-resolution imaging for live-cell imaging using machine learning. I am addicted to reading and love scientific discussions.
-- 💞️ I’m looking to collaborate on everything !!!
 - 📫 Check out my website : https://wiesnertheresa.github.io/
 
 <!---
